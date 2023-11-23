@@ -1,0 +1,23 @@
+h1{
+    color:blue;
+}
+
+#navbar {
+    flex-direction: column;
+    height: 80px;
+    padding-bottom: 0.6rem;
+    padding-top: 0.5rem;
+}
+
+#companies .items{
+    flex-direction: column;
+}
+
+#companies .items .item{
+
+    width: 100%;
+}
+
+.courses .course{
+    flex-direction: column;
+}
